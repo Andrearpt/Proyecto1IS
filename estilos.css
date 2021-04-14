@@ -93,3 +93,11 @@ footer{
         width: 100%;
     }
 }
+.container-fluid {
+        height: 90%;
+        width: 100%;
+      }
+      
+.carousel-inner img {
+        height: 300px;
+       } 
